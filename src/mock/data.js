@@ -21,19 +21,19 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '/cv.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'rmv.png',
+    title: 'React.js Movie info web app',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://mv-info.netlify.app',
+    repo: 'https://github.com/Jimgeo98/React-Movie-info', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

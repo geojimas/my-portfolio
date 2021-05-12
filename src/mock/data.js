@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Dimitris Georgiadis | Junior Full Stack Web Developer', // e.g: 'Name | Developer'
+  lang: 'gr, en', // e.g: en, es, fr, jp
+  description: "Welcome to my Site don't forget to check out my resume and my Github", // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: '/cv.pdf', // if no resume, the button will not show up
+  resume: 'cv.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

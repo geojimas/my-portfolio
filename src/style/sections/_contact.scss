@@ -47,4 +47,23 @@
       color: black;
     }
   }
+
+  @media only screen and (max-width: 450px) {
+    .contact-wrapper__text{
+      font-size: 21px;
+    }
+    
+  }
+  @media only screen and (max-width: 400px) {
+    .contact-wrapper__text{
+      font-size: 17px;
+    }
+    
+  }
+  @media only screen and (max-width: 270px) {
+    .contact-wrapper__text{
+      font-size: 10px;
+    }
+    
+  }
 }

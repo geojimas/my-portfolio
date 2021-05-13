@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Dimitris Georgiadis | Junior Full Stack Web Developer', // e.g: 'Name | Developer'
+  title: 'Dimitris Georgiadis', // e.g: 'Name | Developer'
   lang: 'gr, en', // e.g: en, es, fr, jp
   description: "Welcome to my Site don't forget to check out my resume and my Github", // e.g: Welcome to my website
 };
@@ -11,16 +11,18 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Jim,',
-  subtitle: 'Junior Full Stack Web Developer',
+  subtitle: 'I am Junior Full Stack Web Developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    "Hi i'm a Jim, junior Full Stack Web Developer, i have bachelor degree in computer science with Grading 8.2",
+  paragraphTwo:
+    'I like making websites and web applications , i call myself full stuck developer because i like both frontend and backend things. I mainly work with MEVN Stack (MongoDB, Express.js, VueJS, Node.js) and PHP Laravel with MySQL and Vue.js. So if you want check out my projects down below.',
+  paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
 };
@@ -59,7 +61,7 @@ export const projectsData = [
     img: 'vapi.png',
     title: 'Vue.js Games',
     info: "It's a web app that provides information about popular games fetched from the Laravel API.",
-    info2: 'Made with Vue.js, custom SCSS and my Laravel API endpoint.',
+    info2: 'Made with Vue.js, custom SASS and my Laravel API endpoint.',
     url: 'https://vgv.netlify.app',
     repo: 'https://github.com/Jimgeo98/vue-games', // if no repo, the button will not show up
   },
@@ -67,8 +69,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'vfire.png',
     title: 'Vue.js Firebase Auth',
-    info: "It's a web app that provides Authentication with email and password or google Account with Popup Menu",
-    info2: 'Made with Vue.js, custom SCSS, Bulma.css and Google Firebase.',
+    info: "It's a web app that provides Authentication with email and password or google Account with Popup Menu.",
+    info2: 'Made with Vue.js, custom SASS, Bulma.css and Google Firebase.',
     url: 'https://vfire.netlify.app',
     repo: 'https://github.com/Jimgeo98/vue-firebase-auth', // if no repo, the button will not show up
   },
@@ -77,7 +79,7 @@ export const projectsData = [
     img: 'dec.png',
     title: 'Deciconv',
     info: "It's a web app that can convert a Decimal Number to binary, octahedral, hexadecimal form.",
-    info2: 'Made with HTML, SCSS, JavaScript',
+    info2: 'Made with HTML, SASS, JavaScript.',
     url: 'https://deciconv.netlify.app',
     repo: 'https://github.com/Jimgeo98/Deciconv', // if no repo, the button will not show up
   },
@@ -94,7 +96,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'jwt.png',
     title: 'Node.js JWT Auth',
-    info: "It's a Web service that can provide User Authentication with JWT Web Token.",
+    info: "It's a Web service that can provide User Authentication with Json Web Token (JWT).",
     info2: 'Made with HTML, CSS, Bootstrap, EJS, Node.js, Express.js, JWT, MySQL.',
     url: 'https://github.com/Jimgeo98/node-jwt-api',
     repo: 'https://github.com/Jimgeo98/node-jwt-api', // if no repo, the button will not show up
@@ -103,7 +105,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'lapi.png',
     title: 'Laravel Rest API',
-    info: "It's a REST API that can provide Create, Read, Update, Delete Methods on hi endpoint.",
+    info: "It's a REST API that can provide Create, Read, Update, Delete Methods on his endpoint.",
     info2: 'Made with PHP Laravel Framework and MySQL Database.',
     url: 'https://games584.herokuapp.com',
     repo: 'https://github.com/Jimgeo98/Laravel-REST-API', // if no repo, the button will not show up

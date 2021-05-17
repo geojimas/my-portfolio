@@ -1,0 +1,27 @@
+ i'm a junior developer, i have degree from University of Western Macedonia with Grading 8.2
+
+ I like making websites and web applications , i call myself full stuck developer because i like both frontend and backend things, so if you want you can watch my projects down below.
+
+ My skills as developer are HTML/CSS/SASS (Bootstrap, Animate.css, Swiper, google fonts, font awesome.)
+
+ Basics of JavaScript and JavaScript libraries (JSON, Moment.js, Video.js / Plyr, Highlight.js, Clipboard.js, Scrollreveal.js)
+
+ Fetch data from external REST API or local JSON file.
+
+ Basics of React.js, Next.js
+
+ Basics of Node.js and Express.js
+
+ Basics of PHP and Laravel.
+
+ Basics of SQL ( queries, roles, triggers ) and MySQL management system.
+
+ Very Basics of WordPress, Elementor and Woocommerce.
+
+ Familiar with Java.
+
+ Other skills: Git, Github, Visual Studio Code / Visual Studio 2019, Postman, XAMPP, Inkscape, GIMP, OpenShot Video Editor, Google analytics, Hotjar, Netlify, Vercel, Heroku, Freenome.
+
+ Very good knowledge about custom PC hardware.
+
+ Word / Excel / PowerPoint

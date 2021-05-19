@@ -94,6 +94,24 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'ndapi.png',
+    title: 'Node.js REST API',
+    info: "It's a REST API that can provide CRUD (Create, Read, Update, Delete) operations.",
+    info2: 'Made with Node.js Express.js, MongoDB',
+    url: 'https://rest48.herokuapp.com',
+    repo: 'https://github.com/Jimgeo98/Node-REST-API', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'mevn.png',
+    title: 'MEVN Web app',
+    info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
+    info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
+    url: 'https://vcruda.netlify.app',
+    repo: 'https://github.com/Jimgeo98/MEVN-app', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'jwt.png',
     title: 'Node.js JWT Auth',
     info: "It's a Web service that can provide User Authentication with Json Web Token (JWT).",

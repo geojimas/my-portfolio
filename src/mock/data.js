@@ -108,7 +108,7 @@ export const projectsData = [
     info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
     info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
     url: 'https://vcruda.netlify.app',
-    repo: 'https://github.com/Jimgeo98/MEVN-app', // if no repo, the button will not show up
+    repo: 'https://github.com/Jimgeo98/MEVN-JavaScript', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

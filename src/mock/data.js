@@ -67,21 +67,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'vfire.png',
-    title: 'Vue.js Firebase Auth',
-    info: "It's a web app that provides Authentication with email and password or google Account with Popup Menu.",
-    info2: 'Made with Vue.js, custom SASS, Bulma.css and Google Firebase.',
-    url: 'https://vfire.netlify.app',
-    repo: 'https://github.com/Jimgeo98/vue-firebase-auth', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'dec.png',
     title: 'Deciconv',
     info: "It's a web app that can convert a Decimal Number to binary, octahedral, hexadecimal form.",
     info2: 'Made with HTML, SASS, JavaScript.',
     url: 'https://deciconv.netlify.app',
     repo: 'https://github.com/Jimgeo98/Deciconv', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'apts.png',
+    title: 'Quick API Test',
+    info: "It's a web app that can provide quick API calls for any URL endpoint to test the cors, response, headers etc",
+    info2: 'Made with HTML, CSS, JavaScript.',
+    url: 'https://quickapitest.netlify.app',
+    repo: 'https://github.com/Jimgeo98/quick-api-test', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

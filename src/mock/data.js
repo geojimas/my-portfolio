@@ -58,12 +58,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'vapi.png',
-    title: 'Vue.js Games',
-    info: "It's a web app that provides information about popular games fetched from the Laravel API.",
-    info2: 'Made with Vue.js for frontend and Laravel fom backend',
-    url: 'https://vgv.netlify.app',
-    repo: 'https://github.com/Jimgeo98/Laravel-Vue-app', // if no repo, the button will not show up
+    img: 'vmov.png',
+    title: 'Vue.js Movie List',
+    info: "It's a web app that provides information about popular Movies fetched from my PHP Lumen API.",
+    info2: 'Made with Vue.js in frontend and PHP Lumen in backend',
+    url: 'https://vmov.netlify.app',
+    repo: 'https://github.com/Jimgeo98/vue-movies-api', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -76,9 +76,9 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'apts.png',
+    img: 'qts.png',
     title: 'Quick API Test',
-    info: "It's a web app that can provide quick API calls for any URL endpoint to test the cors, response, headers etc",
+    info: "It's a web app that can provide quick API calls for any URL endpoint to test the cors, response, headers etc.",
     info2: 'Made with HTML, CSS, JavaScript.',
     url: 'https://quickapitest.netlify.app',
     repo: 'https://github.com/Jimgeo98/quick-api-test', // if no repo, the button will not show up
@@ -96,7 +96,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'ndapi.png',
     title: 'Node.js REST API',
-    info: "It's a REST API that can provide CRUD (Create, Read, Update, Delete) operations.",
+    info: "It's a REST API with CRUD (Create, Read, Update, Delete) operations.",
     info2: 'Made with Node.js Express.js, MongoDB',
     url: 'https://rest48.herokuapp.com',
     repo: 'https://github.com/Jimgeo98/Node-REST-API', // if no repo, the button will not show up
@@ -104,7 +104,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'mevn.png',
-    title: 'MEVN Web app',
+    title: 'MEVN stack',
     info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
     info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
     url: 'https://vcruda.netlify.app',
@@ -121,12 +121,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'lapi.png',
-    title: 'Laravel Rest API',
-    info: "It's a REST API that can provide Create, Read, Update, Delete Methods on his endpoint.",
-    info2: 'Made with PHP Laravel Framework and MySQL Database.',
-    url: 'https://games584.herokuapp.com',
-    repo: 'https://github.com/Jimgeo98/Laravel-REST-API', // if no repo, the button will not show up
+    img: 'lmn.png',
+    title: 'Lumen Rest API',
+    info: "It's a REST API with CRUD (Create, Read, Update, Delete) endpoints.",
+    info2: 'Made with PHP Lumen Framework and MySQL Database.',
+    url: 'https://lumrest.herokuapp.com/api/movies',
+    repo: 'https://github.com/Jimgeo98/Lumen-REST-API', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

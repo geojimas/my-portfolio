@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "Hi i'm a Jim, junior Full Stack Web Developer, i have bachelor degree in computer science with Grading 8.2",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stuck developer because i like both frontend and backend things. I mainly work with MEVN Stack (MongoDB, Express.js, VueJS, Node.js) and PHP Laravel with MySQL and Vue.js. So if you want you can check my projects down below.',
+    'I like making websites and web applications , i call myself full stuck developer because i like both frontend and backend things. I mainly work with MEVN Stack (MongoDB / MySQL, Express.js, VueJS, Node.js) and PHP Laravel / Lumen with MySQL and Vue.js. So if you want check my projects in github.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'rmv.png',
     title: 'React.js Movies',
     info: "It's a web app that provides information's about movies.",
-    info2: 'Made with React.js , custom SASS styles and free API.',
+    info2: 'Made with React.js, custom SCSS and free API from .',
     url: 'https://mv-info.netlify.app',
     repo: 'https://github.com/Jimgeo98/React-Movie-info', // if no repo, the button will not show up
   },
@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'jokes.png',
     title: 'React.js Jokes',
     info: "It's a web app that provides Random Jokes.",
-    info2: 'Made with React.js, custom SASS, Materialize.css and free API.',
+    info2: 'Made with React.js, SCSS, Materialize.css and free API.',
     url: 'https://jokeed.netlify.app',
     repo: 'https://github.com/Jimgeo98/React-axios-jokes', // if no repo, the button will not show up
   },
@@ -52,7 +52,7 @@ export const projectsData = [
     img: 'weather.png',
     title: 'Vue.js Weather',
     info: "It's a web app that provides information about Weather for every place on the planet.",
-    info2: 'Made with Vue.js, Typescript, custom SASS and free API.',
+    info2: 'Made with Vue.js, Typescript, custom SASS and free API from OpenWeatherMap',
     url: 'https://opweather.ml',
     repo: 'https://github.com/Jimgeo98/vue-weather', // if no repo, the button will not show up
   },
@@ -61,7 +61,7 @@ export const projectsData = [
     img: 'vmov.png',
     title: 'Vue.js Movie List',
     info: "It's a web app that provides information about popular Movies fetched from my PHP Lumen API.",
-    info2: 'Made with Vue.js in frontend and PHP Lumen in backend',
+    info2: 'Made with Vue.js in front-end and PHP Lumen in back-end',
     url: 'https://vmov.netlify.app',
     repo: 'https://github.com/Jimgeo98/vue-movies-api', // if no repo, the button will not show up
   },

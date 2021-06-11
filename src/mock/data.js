@@ -67,6 +67,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'bmi.png',
+    title: 'Vue.js BMI Calculator',
+    info: "It's a web app that can Calculate your BMI.",
+    info2: 'Made with Vue.js and Materialize.css',
+    url: 'https://vbmi.netlify.app',
+    repo: 'https://github.com/Jimgeo98/vue-bmi-calc', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'dec.png',
     title: 'Deciconv',
     info: "It's a web app that can convert a Decimal Number to binary, octahedral, hexadecimal form.",

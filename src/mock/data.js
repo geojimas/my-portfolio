@@ -103,10 +103,11 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'ndapi.png',
-    title: 'Node.js REST API',
+    img: 'ts-rest.png',
+    title: 'TypeScript REST API',
     info: "It's a REST API with CRUD (Create, Read, Update, Delete) operations.",
-    info2: 'Made with Node.js Express.js, MongoDB',
+    info2:
+      'Made with TypeScript / Node.js Express.js, MongoDB, with JWT Authentication and Protected Routes',
     url: 'https://rest48.herokuapp.com',
     repo: 'https://github.com/Jimgeo98/Node-REST-API', // if no repo, the button will not show up
   },
@@ -118,15 +119,6 @@ export const projectsData = [
     info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
     url: 'https://vcruda.netlify.app',
     repo: 'https://github.com/Jimgeo98/MEVN-JavaScript', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'jwt.png',
-    title: 'Node.js JWT Auth',
-    info: "It's a Web service that can provide User Authentication with Json Web Token (JWT).",
-    info2: 'Made with HTML, CSS, Bootstrap, EJS, Node.js, Express.js, JWT, MySQL.',
-    url: 'https://github.com/Jimgeo98/node-jwt-api',
-    repo: 'https://github.com/Jimgeo98/node-jwt-api', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

@@ -40,12 +40,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'jokes.png',
-    title: 'React.js Jokes',
-    info: "It's a web app that provides Random Jokes.",
-    info2: 'Made with React.js, SCSS, Materialize.css and free API.',
-    url: 'https://jokeed.netlify.app',
-    repo: 'https://github.com/Jimgeo98/React-axios-jokes', // if no repo, the button will not show up
+    img: 'typer.png',
+    title: 'Vue.js Typer',
+    info: "It's a Typing game with countdown timer to test your typing skills.",
+    info2: 'Made with Vue.js, SCSS, Materialize.css, animate.css and free API.',
+    url: 'https://typv.netlify.app',
+    repo: 'https://github.com/Jimgeo98/type-game', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -70,7 +70,7 @@ export const projectsData = [
     img: 'bmi.png',
     title: 'Vue.js BMI Calculator',
     info: "It's a web app that can Calculate your BMI.",
-    info2: 'Made with Vue.js and Materialize.css',
+    info2: 'Made with Vue.js and Materialize.css and animate.css',
     url: 'https://vbmi.netlify.app',
     repo: 'https://github.com/Jimgeo98/vue-bmi-calc', // if no repo, the button will not show up
   },
@@ -107,7 +107,7 @@ export const projectsData = [
     title: 'TypeScript REST API',
     info: "It's a REST API with CRUD (Create, Read, Update, Delete) operations.",
     info2:
-      'Made with TypeScript / Node.js Express.js, MongoDB, with JWT Authentication and Protected Routes',
+      'Made with TypeScript / Node.js Express.js, MongoDB, with JWT Authentication and Protected Routes.',
     url: 'https://rest48.herokuapp.com',
     repo: 'https://github.com/Jimgeo98/Node-REST-API', // if no repo, the button will not show up
   },

@@ -108,8 +108,8 @@ export const projectsData = [
     info: "It's a REST API with CRUD (Create, Read, Update, Delete) operations.",
     info2:
       'Made with TypeScript / Node.js Express.js, MongoDB, with JWT Authentication and Protected Routes.',
-    url: 'https://rest48.herokuapp.com',
-    repo: 'https://github.com/Jimgeo98/Node-REST-API', // if no repo, the button will not show up
+    url: 'https://rest86.herokuapp.com',
+    repo: 'https://github.com/Jimgeo98/TypeScript-REST-API', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -118,7 +118,7 @@ export const projectsData = [
     info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
     info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
     url: 'https://vcruda.netlify.app',
-    repo: 'https://github.com/Jimgeo98/MEVN-JavaScript', // if no repo, the button will not show up
+    repo: 'https://github.com/Jimgeo98/MEVN-TypeScript', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

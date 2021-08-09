@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Dimitris Georgiadis', // e.g: 'Name | Developer'
   lang: 'gr, en', // e.g: en, es, fr, jp
-  description: "Welcome to my Site don't forget to check out my resume and my Github", // e.g: Welcome to my website
+  description: "Welcome to my Site don't forget to check out my resume and my GitHub", // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "Hi i'm a Jim, junior Full Stack Web Developer, i have bachelor degree in computer science with Grading 8.2",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stuck developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, Express.js, VueJS, Node.js) and PHP Laravel / Lumen with MySQL and Vue.js. So if you want check my projects in github.',
+    'I like making websites and web applications , i call myself full stuck developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and PHP Laravel / Lumen with MySQL and VueJS. So if you want check my projects in GitHub.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
@@ -32,7 +32,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'rmv.png',
-    title: 'React.js Movies',
+    title: 'Movies',
     info: "It's a web app that provides information's about movies.",
     info2: 'Made with React.js, custom SCSS and free API from .',
     url: 'https://mv-info.netlify.app',
@@ -41,7 +41,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'typer.png',
-    title: 'Vue.js Typer',
+    title: 'Type game',
     info: "It's a Typing game with countdown timer to test your typing skills.",
     info2: 'Made with Vue.js, SCSS, Materialize.css, animate.css and free API.',
     url: 'https://typv.netlify.app',
@@ -50,16 +50,16 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'weather.png',
-    title: 'Vue.js Weather',
+    title: 'Weather',
     info: "It's a web app that provides information about Weather for every place on the planet.",
     info2: 'Made with Vue.js, Typescript, custom SASS and free API from OpenWeatherMap',
-    url: 'https://opweather.ml',
+    url: 'https://opweather.netlify.app',
     repo: 'https://github.com/Jimgeo98/vue-weather', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'vmov.png',
-    title: 'Vue.js Movie List',
+    title: 'Movie List',
     info: "It's a web app that provides information about popular Movies fetched from my PHP Lumen API.",
     info2: 'Made with Vue.js in front-end and PHP Lumen in back-end',
     url: 'https://vmov.netlify.app',
@@ -68,7 +68,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'bmi.png',
-    title: 'Vue.js BMI Calculator',
+    title: 'BMI Calculator',
     info: "It's a web app that can Calculate your BMI.",
     info2: 'Made with Vue.js and Materialize.css and animate.css',
     url: 'https://vbmi.netlify.app',
@@ -77,7 +77,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'dec.png',
-    title: 'Deciconv',
+    title: 'Converter',
     info: "It's a web app that can convert a Decimal Number to binary, octahedral, hexadecimal form.",
     info2: 'Made with HTML, SASS, JavaScript.',
     url: 'https://deciconv.netlify.app',
@@ -95,7 +95,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'nodecrd.png',
-    title: 'Node.js CRUD',
+    title: 'Staff management system',
     info: "It's a web app that can create, read, update, delete data in MySQL Database.",
     info2: 'Made with HTML, CSS, Bootstrap, EJS, Node.js, Express.js, MySQL.',
     url: 'https://crud77.herokuapp.com',
@@ -114,7 +114,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'mevn.png',
-    title: 'MEVN stack',
+    title: 'MEVN CRUD operations',
     info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
     info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
     url: 'https://vcruda.netlify.app',

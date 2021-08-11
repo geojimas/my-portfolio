@@ -36,7 +36,7 @@ export const projectsData = [
     info: "It's a web app that provides information's about movies.",
     info2: 'Made with React.js, custom SCSS and free API from .',
     url: 'https://mv-info.netlify.app',
-    repo: 'https://github.com/Jimgeo98/React-Movie-info', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/React-Movie-info', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -45,7 +45,7 @@ export const projectsData = [
     info: "It's a Typing game with countdown timer to test your typing skills.",
     info2: 'Made with Vue.js, SCSS, Materialize.css, animate.css and free API.',
     url: 'https://typv.netlify.app',
-    repo: 'https://github.com/Jimgeo98/type-game', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/vue-type-game', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -54,7 +54,7 @@ export const projectsData = [
     info: "It's a web app that provides information about Weather for every place on the planet.",
     info2: 'Made with Vue.js, Typescript, custom SASS and free API from OpenWeatherMap',
     url: 'https://opweather.netlify.app',
-    repo: 'https://github.com/Jimgeo98/vue-weather', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/vue-weather', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -63,7 +63,7 @@ export const projectsData = [
     info: "It's a web app that provides information about popular Movies fetched from my PHP Lumen API.",
     info2: 'Made with Vue.js in front-end and PHP Lumen in back-end',
     url: 'https://vmov.netlify.app',
-    repo: 'https://github.com/Jimgeo98/vue-movies-api', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/vue-movies-api', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -72,7 +72,7 @@ export const projectsData = [
     info: "It's a web app that can Calculate your BMI.",
     info2: 'Made with Vue.js and Materialize.css and animate.css',
     url: 'https://vbmi.netlify.app',
-    repo: 'https://github.com/Jimgeo98/vue-bmi-calc', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/vue-bmi-calc', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -81,7 +81,7 @@ export const projectsData = [
     info: "It's a web app that can convert a Decimal Number to binary, octahedral, hexadecimal form.",
     info2: 'Made with HTML, SASS, JavaScript.',
     url: 'https://deciconv.netlify.app',
-    repo: 'https://github.com/Jimgeo98/Deciconv', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/Deciconv', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -90,7 +90,7 @@ export const projectsData = [
     info: "It's a web app that can provide quick API calls for any URL endpoint to test the cors, response, headers etc.",
     info2: 'Made with HTML, CSS, JavaScript.',
     url: 'https://quickapitest.netlify.app',
-    repo: 'https://github.com/Jimgeo98/quick-api-test', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/quick-api-test', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -99,7 +99,7 @@ export const projectsData = [
     info: "It's a web app that can create, read, update, delete data in MySQL Database.",
     info2: 'Made with HTML, CSS, Bootstrap, EJS, Node.js, Express.js, MySQL.',
     url: 'https://crud77.herokuapp.com',
-    repo: 'https://github.com/Jimgeo98/Node-CRUD', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/Node-CRUD', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -109,7 +109,7 @@ export const projectsData = [
     info2:
       'Made with TypeScript / Node.js Express.js, MongoDB, with JWT Authentication and Protected Routes.',
     url: 'https://rest86.herokuapp.com',
-    repo: 'https://github.com/Jimgeo98/TypeScript-REST-API', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/TypeScript-REST-API', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -118,7 +118,7 @@ export const projectsData = [
     info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
     info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
     url: 'https://vcruda.netlify.app',
-    repo: 'https://github.com/Jimgeo98/MEVN-TypeScript', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/MEVN-TypeScript', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -127,7 +127,7 @@ export const projectsData = [
     info: "It's a REST API with CRUD (Create, Read, Update, Delete) endpoints.",
     info2: 'Made with PHP Lumen Framework and MySQL Database.',
     url: 'https://lumrest.herokuapp.com/api/movies',
-    repo: 'https://github.com/Jimgeo98/Lumen-REST-API', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/Lumen-REST-API', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -136,7 +136,7 @@ export const projectsData = [
     info: "It's a web app that can create, read, update, delete data in MySQL Database.",
     info2: 'Made with PHP Laravel Framework, Bootstrap.css, Materialize.css and MySQL Database.',
     url: 'http://lvlcrud.herokuapp.com',
-    repo: 'https://github.com/Jimgeo98/Laravel-CRUD', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/Laravel-CRUD', // if no repo, the button will not show up
   },
 ];
 
@@ -158,7 +158,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/Jimgeo98',
+      url: 'https://github.com/geojimas',
     },
   ],
 };

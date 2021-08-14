@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "Hi i'm a Jim, junior Full Stack Web Developer, i have bachelor degree in computer science with Grading 8.2",
+    "Hi i'm a Jim, Junior Full Stack Web Developer, i have bachelor degree in computer science.",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stuck developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and PHP Laravel / Lumen with MySQL and VueJS. So if you want check my projects in GitHub.',
+    'I like making websites and web applications , i call myself full stuck developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and PHP Laravel / Lumen with MySQL and VueJS. So if you want check my projects in GitHub.I like to code and learn new things every day, my goal is to become a good developer with active role.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'rmv.png',
     title: 'Movies',
     info: "It's a web app that provides information's about movies.",
-    info2: 'Made with React.js, custom SCSS and free API from .',
+    info2: 'Made with ReactJS, custom SCSS and free API from .',
     url: 'https://mv-info.netlify.app',
     repo: 'https://github.com/geojimas/React-Movie-info', // if no repo, the button will not show up
   },
@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'typer.png',
     title: 'Type game',
     info: "It's a Typing game with countdown timer to test your typing skills.",
-    info2: 'Made with Vue.js, SCSS, Materialize.css, animate.css and free API.',
+    info2: 'Made with VueJS, SCSS, Materialize.css, animate.css and free API.',
     url: 'https://typv.netlify.app',
     repo: 'https://github.com/geojimas/vue-type-game', // if no repo, the button will not show up
   },
@@ -52,7 +52,7 @@ export const projectsData = [
     img: 'weather.png',
     title: 'Weather',
     info: "It's a web app that provides information about Weather for every place on the planet.",
-    info2: 'Made with Vue.js, Typescript, custom SASS and free API from OpenWeatherMap',
+    info2: 'Made with VueJS, TypeScript, custom SASS and free API from OpenWeatherMap',
     url: 'https://opweather.netlify.app',
     repo: 'https://github.com/geojimas/vue-weather', // if no repo, the button will not show up
   },
@@ -61,7 +61,7 @@ export const projectsData = [
     img: 'vmov.png',
     title: 'Movie List',
     info: "It's a web app that provides information about popular Movies fetched from my PHP Lumen API.",
-    info2: 'Made with Vue.js in front-end and PHP Lumen in back-end',
+    info2: 'Made with VueJS in front-end and PHP Lumen in back-end',
     url: 'https://vmov.netlify.app',
     repo: 'https://github.com/geojimas/vue-movies-api', // if no repo, the button will not show up
   },
@@ -70,7 +70,7 @@ export const projectsData = [
     img: 'bmi.png',
     title: 'BMI Calculator',
     info: "It's a web app that can Calculate your BMI.",
-    info2: 'Made with Vue.js and Materialize.css and animate.css',
+    info2: 'Made with VueJS and Materialize.css and animate.css',
     url: 'https://vbmi.netlify.app',
     repo: 'https://github.com/geojimas/vue-bmi-calc', // if no repo, the button will not show up
   },
@@ -97,7 +97,7 @@ export const projectsData = [
     img: 'nodecrd.png',
     title: 'Staff management system',
     info: "It's a web app that can create, read, update, delete data in MySQL Database.",
-    info2: 'Made with HTML, CSS, Bootstrap, EJS, Node.js, Express.js, MySQL.',
+    info2: 'Made with HTML, CSS, Bootstrap, EJS, NodeJS, ExpressJS, MySQL.',
     url: 'https://crud77.herokuapp.com',
     repo: 'https://github.com/geojimas/Node-CRUD', // if no repo, the button will not show up
   },
@@ -107,7 +107,7 @@ export const projectsData = [
     title: 'TypeScript REST API',
     info: "It's a REST API with CRUD (Create, Read, Update, Delete) operations.",
     info2:
-      'Made with TypeScript / Node.js Express.js, MongoDB, with JWT Authentication and Protected Routes.',
+      'Made with TypeScript / NodeJS ExpressJS, MongoDB, with JWT Authentication and Protected Routes.',
     url: 'https://rest86.herokuapp.com',
     repo: 'https://github.com/geojimas/TypeScript-REST-API', // if no repo, the button will not show up
   },
@@ -116,7 +116,7 @@ export const projectsData = [
     img: 'mevn.png',
     title: 'MEVN CRUD operations',
     info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
-    info2: 'Made with MongoDB, Express.js, Vue.js, Node.js',
+    info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS',
     url: 'https://vcruda.netlify.app',
     repo: 'https://github.com/geojimas/MEVN-TypeScript', // if no repo, the button will not show up
   },

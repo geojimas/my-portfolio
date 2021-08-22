@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "Hi i'm a Jim, Junior Full Stack Web Developer, i have bachelor degree in computer science.",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stuck developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and PHP Laravel / Lumen with MySQL and VueJS. So if you want check my projects in GitHub.I like to code and learn new things every day, my goal is to become a good developer with active role.',
+    'I like making websites and web applications , i call myself full stuck developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and PHP Laravel / Lumen with MySQL and VueJS. So if you want check my projects in GitHub. I like to code and learn new things every day, my goal is to become a good developer with active role.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
@@ -63,7 +63,7 @@ export const projectsData = [
     info: "It's a web app that provides information about popular Movies fetched from my PHP Lumen API.",
     info2: 'Made with VueJS in front-end and PHP Lumen in back-end',
     url: 'https://vmov.netlify.app',
-    repo: 'https://github.com/geojimas/vue-movies-api', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/vue-movies', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

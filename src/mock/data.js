@@ -58,12 +58,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'vmov.png',
-    title: 'Movie List',
-    info: "It's a web app that provides information about popular Movies fetched from my PHP Lumen API.",
-    info2: 'Made with VueJS in front-end and PHP Lumen in back-end',
-    url: 'https://vmov.netlify.app',
-    repo: 'https://github.com/geojimas/vue-movies', // if no repo, the button will not show up
+    img: 'nxmov.png',
+    title: 'Movies',
+    info: "It's a web app that provides information about popular Movies fetched from TMDB.",
+    info2: 'Made with NuxtJS / VueJS and custom SCSS.',
+    url: 'https://mos.vercel.app',
+    repo: 'https://github.com/geojimas/nuxt-movies', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "Hi i'm a Jim, Junior Full Stack Developer, i have bachelor degree in computer science.",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and  MySQL for Database, but i also like other languages like PHP and Go. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
+    'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and  MySQL for Database, but i also like other languages like PHP. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
@@ -92,6 +92,15 @@ export const projectsData = [
       'Made with TypeScript / NodeJS ExpressJS, MongoDB, with JWT Authentication and Protected Routes.',
     url: 'https://rest86.herokuapp.com',
     repo: 'https://github.com/geojimas/TypeScript-REST-API', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'auth.png',
+    title: 'JWT Authentication',
+    info: "It's a custom JWT Authentication that Users can Register and Login, with public and protected Routes, made with NodeJS and TypeScript in backend and VueJS and JavaScript in frontend.",
+    info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS',
+    url: 'https://github.com/geojimas/jwt-auth-vue-typescript',
+    repo: 'https://github.com/geojimas/jwt-auth-vue-typescript', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

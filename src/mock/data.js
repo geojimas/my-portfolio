@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "Hi i'm a Jim, Junior Full Stack Developer, i have bachelor degree in computer science.",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and  MySQL for Database, but i also like other languages like PHP. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
+    'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) and  MySQL for Database, but i also like other languages like PHP and Python. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
@@ -45,7 +45,7 @@ export const projectsData = [
     info: "It's a Typing game with countdown timer to test your typing skills.",
     info2: 'Made with VueJS, SCSS, Materialize.css, animate.css and free API.',
     url: 'https://typv.netlify.app',
-    repo: 'https://github.com/geojimas/vue-type-game', // if no repo, the button will not show up
+    repo: 'https://github.com/geojimas/vue-typing-game', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

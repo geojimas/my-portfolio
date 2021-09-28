@@ -46,7 +46,7 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href="https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding="
+                      href="https://www.canva.com/design/DAErPXPGgQE/xjW9CZmjAza2QWSBbXeImw/view?utm_content=DAErPXPGgQE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
                     >
                       Resume
                     </a>

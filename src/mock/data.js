@@ -24,7 +24,7 @@ export const aboutData = {
     'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) & TypeGraphQL with Apollo client & TypeScript. However i use and other languages like PHP and Python. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
-    'https://www.canva.com/design/DAET0C9JptA/9DUG4oEDZPfytTrr32atww/edit?category=tACZCki4tbY&tailoringShowExploreOnboarding=', // if no resume, the button will not show up
+    'https://www.canva.com/design/DAErPXPGgQE/xjW9CZmjAza2QWSBbXeImw/view?utm_content=DAErPXPGgQE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

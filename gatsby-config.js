@@ -1,3 +1,6 @@
+// require('dotenv').config({
+//   path: `.env.${process.env.NODE_ENV}`,
+// })
 module.exports = {
   plugins: [
     `gatsby-plugin-sass`,
@@ -32,12 +35,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-hotjar`,
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
-        includeInDevelopment: true, // optional parameter to include script in development
-        id: 2397052,
-        sv: 6,
+        trackingId: 'G-WWGGFXR2SP',
       },
     },
   ],
-};
+}

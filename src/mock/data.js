@@ -1,11 +1,11 @@
-import { nanoid } from 'nanoid';
+import { nanoid } from 'nanoid'
 
 // HEAD DATA
 export const headData = {
   title: 'Dimitris Georgiadis', // e.g: 'Name | Developer'
   lang: 'gr, en', // e.g: en, es, fr, jp
   description: "Welcome to my Site don't forget to check out my resume and my GitHub", // e.g: Welcome to my website
-};
+}
 
 // HERO DATA
 export const heroData = {
@@ -13,7 +13,7 @@ export const heroData = {
   name: 'Dimitris Georgiadis,',
   subtitle: 'I am Junior Full Stack Developer',
   cta: '',
-};
+}
 
 // ABOUT DATA
 export const aboutData = {
@@ -24,8 +24,8 @@ export const aboutData = {
     'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) & TypeGraphQL with Apollo client & TypeScript. However i use and other languages like PHP and Python. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
-    'https://www.canva.com/design/DAErPXPGgQE/xjW9CZmjAza2QWSBbXeImw/view?utm_content=DAErPXPGgQE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', // if no resume, the button will not show up
-};
+    'https://www.canva.com/design/DAEsOtedHcw/9nOcuUvuW3ZdK1oig9q1Xg/view?utm_content=DAEsOtedHcw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', // if no resume, the button will not show up
+}
 
 // PROJECTS DATA
 export const projectsData = [
@@ -111,7 +111,7 @@ export const projectsData = [
     url: 'https://lumrest.herokuapp.com/api/movies',
     repo: 'https://github.com/geojimas/Lumen-REST-API', // if no repo, the button will not show up
   },
-];
+]
 
 // // CONTACT DATA
 // export const contactData = {
@@ -134,9 +134,9 @@ export const footerData = {
       url: 'https://github.com/geojimas',
     },
   ],
-};
+}
 
 // Github start/fork buttons
 export const githubButtons = {
   isEnabled: true, // set to false to disable the GitHub stars/fork buttons
-};
+}

@@ -1,26 +1,26 @@
-import React, { useContext, useState, useEffect } from 'react';
-import Fade from 'react-reveal/Fade';
-import { Container, Row, Col } from 'react-bootstrap';
-import Title from '../Title/Title';
-import AboutImg from '../Image/AboutImg';
-import PortfolioContext from '../../context/context';
+import React, { useContext, useState, useEffect } from 'react'
+import Fade from 'react-reveal/Fade'
+import { Container, Row, Col } from 'react-bootstrap'
+import Title from '../Title/Title'
+import AboutImg from '../Image/AboutImg'
+import PortfolioContext from '../../context/context'
 
 const About = () => {
-  const { about } = useContext(PortfolioContext);
-  const { img, paragraphOne, paragraphTwo, paragraphThree, resume } = about;
+  const { about } = useContext(PortfolioContext)
+  const { img, paragraphOne, paragraphTwo, paragraphThree, resume } = about
 
-  const [isDesktop, setIsDesktop] = useState(false);
-  const [isMobile, setIsMobile] = useState(false);
+  const [isDesktop, setIsDesktop] = useState(false)
+  const [isMobile, setIsMobile] = useState(false)
 
   useEffect(() => {
     if (window.innerWidth > 769) {
-      setIsDesktop(true);
-      setIsMobile(false);
+      setIsDesktop(true)
+      setIsMobile(false)
     } else {
-      setIsMobile(true);
-      setIsDesktop(false);
+      setIsMobile(true)
+      setIsDesktop(false)
     }
-  }, []);
+  }, [])
 
   return (
     <section id="about">
@@ -46,7 +46,7 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href="https://www.canva.com/design/DAErPXPGgQE/xjW9CZmjAza2QWSBbXeImw/view?utm_content=DAErPXPGgQE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+                      href="https://www.canva.com/design/DAEsOtedHcw/9nOcuUvuW3ZdK1oig9q1Xg/view?utm_content=DAEsOtedHcw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
                     >
                       Resume
                     </a>
@@ -58,7 +58,7 @@ const About = () => {
         </Row>
       </Container>
     </section>
-  );
-};
+  )
+}
 
-export default About;
+export default About

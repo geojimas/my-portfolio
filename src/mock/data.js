@@ -67,12 +67,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'dec.png',
-    title: 'Converter',
-    info: "It's a web app that can convert a Decimal Number to binary, octahedral, hexadecimal form.",
-    info2: 'Made with HTML, SASS, JavaScript.',
-    url: 'https://deciconv.netlify.app',
-    repo: 'https://github.com/geojimas/Deciconv', // if no repo, the button will not show up
+    img: 'lot.png',
+    title: 'Lottery Game',
+    info: "It's web based lottery game with authentication and draw history.",
+    info2: 'Made with VueJS Quasar, JavaScript and Firebase API',
+    url: 'https://lotg.netlify.app',
+    repo: 'https://github.com/geojimas/lottery-game', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -114,11 +114,11 @@ export const projectsData = [
 ]
 
 // // CONTACT DATA
-// export const contactData = {
-//   cta: '',
-//   btn: '',
-//   email: '',
-// };
+export const contactData = {
+  cta: '',
+  btn: '',
+  email: '',
+}
 
 // FOOTER DATA
 export const footerData = {

@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "Hi i'm a Jim, Junior Full Stack Developer, i have bachelor degree in computer science.",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) & TypeGraphQL with Apollo client & TypeScript. However i use and other languages like PHP and Python. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
+    'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) with TypeScript and other languages like PHP & Laravel and Python & FastAPI. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAEsOtedHcw/9nOcuUvuW3ZdK1oig9q1Xg/view?utm_content=DAEsOtedHcw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', // if no resume, the button will not show up

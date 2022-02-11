@@ -77,12 +77,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'ts-rest.png',
-    title: 'TypeScript REST API',
-    info: "It's a REST API with CRUD (Create, Read, Update, Delete) operations.",
-    info2:
-      'Made with TypeScript / NodeJS ExpressJS, MongoDB, with JWT Authentication and Protected Routes.',
-    url: 'https://rest86.herokuapp.com',
-    repo: 'https://github.com/geojimas/TypeScript-REST-API', // if no repo, the button will not show up
+    title: 'Posts REST API',
+    info: "It's a REST API about User and Posts relationship with CRUD operations.",
+    info2: 'Made with Python / FastAPI, SQLAlchemy and MySQL Database.',
+    url: 'https://github.com/geojimas/books-REST-API',
+    repo: 'https://github.com/geojimas/books-REST-API', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -96,20 +95,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'mevn.png',
-    title: 'MEVN CRUD operations',
+    title: 'Game Management System',
     info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
-    info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS',
+    info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS (MEVN Stack)',
     url: 'https://vcruda.netlify.app',
     repo: 'https://github.com/geojimas/MEVN-TypeScript', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'lmn.png',
-    title: 'Lumen Rest API',
-    info: "It's a REST API with CRUD (Create, Read, Update, Delete) endpoints.",
-    info2: 'Made with PHP Lumen Framework and MySQL Database.',
-    url: 'https://lumrest.herokuapp.com/api/movies',
-    repo: 'https://github.com/geojimas/Lumen-REST-API', // if no repo, the button will not show up
+    title: 'Books Rest API',
+    info: "It's a REST API with Books, Author & shops relationship. Full CRUD operations.",
+    info2: 'Made with TypeScript, Express, MicroORM and MySQL Database.',
+    url: 'https://github.com/geojimas/books-REST-API',
+    repo: 'https://github.com/geojimas/books-REST-API', // if no repo, the button will not show up
   },
 ]
 

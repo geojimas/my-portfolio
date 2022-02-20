@@ -114,9 +114,7 @@ export const projectsData = [
 
 // // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  email: 'georgiadis8636@gmail.com',
 }
 
 // FOOTER DATA

@@ -71,7 +71,7 @@ export const projectsData = [
     title: 'Lottery Game',
     info: "It's web based lottery game with authentication and draw history.",
     info2: 'Made with VueJS Quasar, JavaScript and Firebase API',
-    url: 'https://lotg.netlify.app',
+    url: 'https://lott.netlify.app',
     repo: 'https://github.com/geojimas/lottery-game', // if no repo, the button will not show up
   },
   {

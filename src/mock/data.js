@@ -89,7 +89,7 @@ export const projectsData = [
     title: 'JWT Authentication',
     info: "It's a custom JWT Authentication that Users can Register and Login, with public and protected Routes, made with NodeJS and TypeScript in backend and VueJS and JavaScript in frontend.",
     info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS',
-    url: 'https://github.com/geojimas/jwt-auth-vue-typescript',
+    url: 'https://climax245.herokuapp.com',
     repo: 'https://github.com/geojimas/jwt-auth-vue-typescript', // if no repo, the button will not show up
   },
   {

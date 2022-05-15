@@ -88,18 +88,9 @@ export const projectsData = [
     img: 'auth.png',
     title: 'JWT Authentication',
     info: "It's a custom JWT Authentication that Users can Register and Login, with public and protected Routes, made with NodeJS and TypeScript in backend and VueJS and JavaScript in frontend.",
-    info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS',
+    info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS (MEVN Stack)',
     url: 'https://climax245.herokuapp.com',
     repo: 'https://github.com/geojimas/jwt-auth-vue-typescript', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'mevn.png',
-    title: 'Game Management System',
-    info: "It's a web application that can create, read, update, delete data with HTTP Requests (GET, POST, PATCH, DELETE)",
-    info2: 'Made with MongoDB, ExpressJS, VueJS, NodeJS (MEVN Stack)',
-    url: 'https://vcruda.netlify.app',
-    repo: 'https://github.com/geojimas/MEVN-TypeScript', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

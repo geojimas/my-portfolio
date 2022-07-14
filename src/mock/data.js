@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "Hi i'm a Jim, Junior Full Stack Developer, i have bachelor degree in computer science.",
   paragraphTwo:
-    'I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) with TypeScript and other languages like PHP & Laravel and Python & FastAPI. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.',
+    "I like making websites and web applications , i call myself full stack developer because i like both front-end and back-end things. I mainly work with MEVN Stack (MongoDB / MySQL, ExpressJS, VueJS, NodeJS) with TypeScript but i'am familiar with other languages and frameworks like PHP & Laravel and python & FastAPI. If you want check out my projects on GitHub. Iam a simple person, I like to code and learn new things every day, my goal is to become a good developer with active role.",
   paragraphThree: "Also don't forget to check out my resume.",
   resume:
     'https://www.canva.com/design/DAEsOtedHcw/9nOcuUvuW3ZdK1oig9q1Xg/view?utm_content=DAEsOtedHcw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', // if no resume, the button will not show up
@@ -73,6 +73,15 @@ export const projectsData = [
     info2: 'Made with VueJS Quasar, JavaScript and Firebase API',
     url: 'https://lott.netlify.app',
     repo: 'https://github.com/geojimas/lottery-game', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'rng.png',
+    title: 'Random Password Generator',
+    info: "It's web based random password generator with min length 6 and max length 24 with all possible characters and a copy button.",
+    info2: 'Made with VueJS and TailwindCSS',
+    url: 'https://randy66.netlify.app',
+    repo: 'https://github.com/geojimas/randy', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
